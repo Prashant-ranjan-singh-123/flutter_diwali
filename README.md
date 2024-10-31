@@ -64,7 +64,7 @@
 <details>
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/flutter_diwali/refs/heads/main/github_things/image_2.png" width="499dp"></td>
+    <td><img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/flutter_diwali/refs/heads/main/github_things/Image_2.png" width="499dp"></td>
     <td><img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/flutter_diwali/refs/heads/main/github_things/image_1.png" width="499dp"></td>
  </table>
 </details>
