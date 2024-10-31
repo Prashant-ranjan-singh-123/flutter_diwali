@@ -2,7 +2,7 @@
 <div align="center">
 <br>
 
-<img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Food-Mania/main/readme_images/icon.png" width="200" />
+<img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/flutter_diwali/refs/heads/main/github_things/logo.png" width="200" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img alt="Food-Mania" src="https://img.shields.io/badge/Food%20Mania-00d1a7?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img alt="Happy Diwali" src="https://img.shields.io/badge/Food%20Mania-00d1a7?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img alt="API" src="https://img.shields.io/badge/Api%2024+-50f270?style=for-the-badge&logo=android&logoColor=black"/>
   <img alt="Material You" src="https://custom-icon-badges.demolab.com/badge/material%20you-lightblue?style=for-the-badge&logo=material-you&logoColor=333"/>
 </p>
@@ -31,7 +31,7 @@
 <br>
 
 
-<img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/Food-Mania/main/readme_images/feature_graphic.png"/>
+<img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/flutter_diwali/refs/heads/main/github_things/feature_graphic.png"/>
 
 <p style="text-align: left; font-weight: normal;">Get ready to tantalize your taste buds and unleash your inner chef with Food Mania, a recipe app built with love using Flutter! Immerse yourself in a world of culinary delights as you browse through our ever-growing collection of delicious dishes. Our user-friendly interface is meticulously designed to deliver an unparalleled cooking experience.  Intuitive navigation and mouthwatering visuals will guide you through every step, making recipe exploration a breeze. But Food Mania isn't just about following recipes, it's about creating a vibrant community of food lovers! We believe the kitchen is a place for connection and creativity, which is why our app is open for contributions. Whether you're a seasoned home cook or a curious culinary explorer, you can share your favorite recipes and inspire others with your unique creations. Let's build a recipe haven together!  Join Food Mania and be part of something extraordinary.</p>
 
