@@ -6,29 +6,27 @@
 
 </div>
 
-<h1 align="center">Food Mania</h1>
+<h1 align="center">Flutter Diwali</h1>
 
 
 <p align="center">
-  <img alt="Happy Diwali" src="https://img.shields.io/badge/Food%20Mania-00d1a7?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img alt="Happy Diwali" src="https://img.shields.io/badge/Diwali%20Special-00d1a7?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img alt="API" src="https://img.shields.io/badge/Api%2024+-50f270?style=for-the-badge&logo=android&logoColor=black"/>
   <img alt="Material You" src="https://custom-icon-badges.demolab.com/badge/material%20you-lightblue?style=for-the-badge&logo=material-you&logoColor=333"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Prashant-ranjan-singh-123/Food-Mania/releases"><img src="https://img.shields.io/github/v/release/Prashant-ranjan-singh-123/Food-Mania?color=purple&include_prereleases&logo=github&style=for-the-badge"/></a>
-  <a href="https://github.com/Prashant-ranjan-singh-123/Food-Mania/stargazers"><img src="https://img.shields.io/github/stars/Prashant-ranjan-singh-123/Food-Mania?color=ffff00&style=for-the-badge"/></a>
-  <a href="https://github.com/Prashant-ranjan-singh-123/Food-Mania/network/members"><img src="https://img.shields.io/github/forks/Prashant-ranjan-singh-123/Food-Mania?style=for-the-badge"/></a>
-  <a href="https://hits.sh/github.com/Prashant-ranjan-singh-123/Food-Mania/"><img alt="Hits" src="https://hits.sh/github.com/Prashant-ranjan-singh-123/Food-Mania.svg?style=for-the-badge&label=Views&extraCount=10&color=54856b"/></a>
+  <a href="https://github.com/Prashant-ranjan-singh-123/flutter_diwali/releases"><img src="https://img.shields.io/github/v/release/Prashant-ranjan-singh-123/flutter_diwali?color=purple&include_prereleases&logo=github&style=for-the-badge"/></a>
+  <a href="https://github.com/Prashant-ranjan-singh-123/flutter_diwali/stargazers"><img src="https://img.shields.io/github/stars/Prashant-ranjan-singh-123/flutter_diwali?color=ffff00&style=for-the-badge"/></a>
+  <a href="https://github.com/Prashant-ranjan-singh-123/flutter_diwali/network/members"><img src="https://img.shields.io/github/forks/Prashant-ranjan-singh-123/flutter_diwali?style=for-the-badge"/></a>
+  <a href="https://hits.sh/github.com/Prashant-ranjan-singh-123/flutter_diwali/"><img alt="Hits" src="https://hits.sh/github.com/Prashant-ranjan-singh-123/flutter_diwali.svg?style=for-the-badge&label=Views&extraCount=10&color=54856b"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Prashant-ranjan-singh-123/Food-Mania/releases"><img src="https://img.shields.io/github/downloads/Prashant-ranjan-singh-123/Food-Mania/total?color=orange&style=for-the-badge"/></a>
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Prashant-ranjan-singh-123/Food-Mania?style=for-the-badge&color=ggff20">
-  <a href="https://github.com/Prashant-ranjan-singh-123/Food-Mania/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/Prashant-ranjan-singh-123/Food-Mania?style=for-the-badge&color=ccdd56"/></a>
+  <a href="https://github.com/Prashant-ranjan-singh-123/flutter_diwali/releases"><img src="https://img.shields.io/github/downloads/Prashant-ranjan-singh-123/flutter_diwali/total?color=orange&style=for-the-badge"/></a>
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Prashant-ranjan-singh-123/flutter_diwali?style=for-the-badge&color=ggff20">
+  <a href="https://github.com/Prashant-ranjan-singh-123/flutter_diwali/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/Prashant-ranjan-singh-123/flutter_diwali?style=for-the-badge&color=ccdd56"/></a>
 </p>
-
-<br>
 
 
 <img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/flutter_diwali/refs/heads/main/github_things/feature_graphic.png"/>
