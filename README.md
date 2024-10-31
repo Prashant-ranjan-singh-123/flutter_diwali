@@ -43,31 +43,21 @@
 [<img src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on Releases" height="80">](https://github.com/Prashant-ranjan-singh-123/Food-Mania/releases/download/apk-01/Food.Mania.apk)
 <a href="https://apt.izzysoft.de/fdroid/index/apk/ru.aleshin.timeplanner" target="_blank">
 
-## What you get by this app
-- Onboarding Screen UI
-- Amazing Animation Ideas
-- Food Store Application Listing UI
-- Profile UI
-- Detailed Item UI
-- Added to Cart Screen UI
-- Highly Customisable
-
 ## Technologies stack 🚀
 - Clean Architecture 🏛️
 - Use of Flutter Animations package 🎬
 - iOS and Android Compatible 📱
 - Landscape Mode Supported 🌄
 - Responsive UI 📱
-  <br>
+
+<br>
 
 ## Some Screens 📱
-<details>
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/flutter_diwali/refs/heads/main/github_things/Image_2.png" width="499dp"></td>
     <td><img src="https://raw.githubusercontent.com/Prashant-ranjan-singh-123/flutter_diwali/refs/heads/main/github_things/image_1.png" width="499dp"></td>
  </table>
-</details>
 
 <br>
 
@@ -80,7 +70,7 @@ https://flutter.dev/
 
 2. Fetch latest source code from master branch.
 ```
-git clone https://github.com/Prashant-ranjan-singh-123/Food-Mania.git
+git clone https://github.com/Prashant-ranjan-singh-123/flutter_diwali.git
 ```
 
 3. Download Dependency:
@@ -95,46 +85,9 @@ flutter run
 
 <br>
 
-## TODO
-
-- [ ] Add Documentation.
-- [ ] Add Supabase Backend.
-- [ ] Add Google SignIn & Gmail SignIn.
-- [ ] Make Profile Screen UI.
-- [ ] Add Native Splash Screen.
-- [ ] Getx State Management.
-- [ ] Like Item should go to Favourite Page.
-- [ ] Perseverant Favourite Page Item.
-
-<br>
-
 ## Contributing
 
 If you want to contribute to a project and make it better, your help is very welcome. Contributing is also a great way to learn more about social coding on Github, new technologies and and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions: a good, clean pull request.
-
-### How to make a clean pull request
-
-Look for a project's contribution instructions. If there are any, follow them.
-
-- Create a personal fork of the project on Github.
-- Clone the fork on your local machine. Your remote repo on Github is called `origin`.
-- Add the original repository as a remote called `upstream`.
-- If you created your fork a while ago be sure to pull upstream changes into your local repository.
-- Create a new branch to work on! Branch from `develop` if it exists, else from `master`.
-- Implement/fix your feature, comment your code.
-- Follow the code style of the project, including indentation.
-- If the project has tests run them!
-- Write or adapt tests as needed.
-- Add or change the documentation as needed.
-- Squash your commits into a single commit with git's [interactive rebase](https://help.github.com/articles/interactive-rebase). Create a new branch if necessary.
-- Push your branch to your fork on Github, the remote `origin`.
-- From your fork open a pull request in the correct branch. Target the project's `develop` branch if there is one, else go for `master`!
-- ...
-- Once the pull request is approved and merged you can pull the changes from `upstream` to your local repo and delete
-  your extra branch(es).
-
-And last but not least: Always write your commit messages in the present tense. Your commit message should describe what the commit, when applied, does to the code – not what you did to the code.
-
 
 <br>
 
@@ -166,8 +119,8 @@ SOFTWARE.
 
 ## 👨‍💻 Contributors
 
-<a href='https://github.com/Prashant-ranjan-singh-123/Food-Mania/graphs/contributors'>
-  <img src='https://contrib.rocks/image?repo=Prashant-ranjan-singh-123/Food-Mania' />
+<a href='https://github.com/Prashant-ranjan-singh-123/flutter_diwali/graphs/contributors'>
+  <img src='https://contrib.rocks/image?repo=Prashant-ranjan-singh-123/flutter_diwali' />
 </a>
 
 </div>
