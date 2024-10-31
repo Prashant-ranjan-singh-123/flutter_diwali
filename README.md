@@ -44,8 +44,6 @@
 <a href="https://apt.izzysoft.de/fdroid/index/apk/ru.aleshin.timeplanner" target="_blank">
 
 ## Technologies stack 🚀
-- Clean Architecture 🏛️
-- Use of Flutter Animations package 🎬
 - iOS and Android Compatible 📱
 - Landscape Mode Supported 🌄
 - Responsive UI 📱
