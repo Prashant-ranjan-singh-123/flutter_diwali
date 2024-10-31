@@ -35,6 +35,10 @@
   This application was made for fun. I was inspired by the Flutter Deviser page, which gave me the idea to create it. Be sure to check out their page—they have impressive Flutter skills!
 </p>
 
+<p style="text-align: left; font-weight: normal;">
+https://www.instagram.com/flutter.deviser?igsh=MXc4Y2k1cm55ZDEyMw==
+</p>
+
 
 <div>
 <br>
